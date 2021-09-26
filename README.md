@@ -21,4 +21,4 @@ $ yarn add react-router-dom axios styled-components react-icons react-toastify
 $ rails g model todo name is_completed:boolean
 ```
 
-
+マイグレーションファイルできる
